@@ -1,0 +1,94 @@
+2024-11-07 11:00:14,401 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-11-07 11:00:14,814 - ERROR - Error creating database 'rag': Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2024-11-07 11:00:14,815 - ERROR - Error initializing databases: 500: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2024-11-07 11:02:43,713 - ERROR - Error performing similarity search on collection 'rag': Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2024-11-07 11:03:24,230 - INFO - Use pytorch device_name: cpu
+2024-11-07 11:03:24,231 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-11-07 11:03:25,506 - INFO - Similarity search performed on collection 'rag' with query: भाई, ड्राइविंग लाइसेंस कैसे बनवाए?
+2024-11-07 11:03:48,788 - INFO - Use pytorch device_name: cpu
+2024-11-07 11:03:48,788 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-11-07 11:03:49,046 - INFO - Similarity search performed on collection 'rag' with query: भाई, ड्राइविंग लाइसेंस कैसे बनवाए?
+2024-11-07 17:47:41,364 - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2024-11-07 17:48:06,242 - INFO - Deleted './chroma' directory.
+2024-11-07 17:48:06,248 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-11-07 17:48:06,520 - ERROR - Error creating database 'rag': Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2024-11-07 17:48:06,521 - ERROR - Error initializing databases: 500: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2024-11-07 17:54:28,331 - ERROR - Error performing similarity search on collection 'rag': Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2024-11-07 18:02:03,163 - INFO - Use pytorch device_name: cpu
+2024-11-07 18:02:03,163 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-11-07 18:02:13,436 - INFO - Similarity search performed on collection 'rag' with query: Hello, how can you help me today?
+2024-11-07 18:02:23,768 - INFO - Use pytorch device_name: cpu
+2024-11-07 18:02:23,768 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-11-07 18:02:25,935 - INFO - Similarity search performed on collection 'rag' with query: Hello, how can you help me today?
+2024-11-07 18:02:42,242 - INFO - Use pytorch device_name: cpu
+2024-11-07 18:02:42,242 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-11-07 18:02:44,537 - INFO - Similarity search performed on collection 'rag' with query: Hello, how can you help me today?
+2024-11-07 18:08:31,261 - INFO - Use pytorch device_name: cpu
+2024-11-07 18:08:31,261 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-11-07 18:08:33,963 - INFO - Similarity search performed on collection 'rag' with query: Hello, how can you help me today?
+2024-11-07 15:53:09,875 - INFO - Deleted './chroma' directory.
+2024-11-07 15:53:09,884 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-11-07 15:53:10,308 - ERROR - Error creating database 'rag': Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2024-11-07 15:53:10,309 - ERROR - Error initializing databases: 500: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2024-11-07 15:53:18,623 - ERROR - Error performing similarity search on collection 'rag': Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2024-11-07 15:53:57,520 - INFO - Use pytorch device_name: cpu
+2024-11-07 15:53:57,520 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-11-07 15:53:59,316 - INFO - Similarity search performed on collection 'rag' with query: What is the capital of France?
+2024-11-07 15:54:31,682 - INFO - Use pytorch device_name: cpu
+2024-11-07 15:54:31,682 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-11-07 15:54:32,024 - INFO - Similarity search performed on collection 'rag' with query: What is the capital of France?
+2024-11-07 16:19:46,314 - INFO - Use pytorch device_name: cpu
+2024-11-07 16:19:46,314 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-11-07 16:19:46,789 - INFO - Similarity search performed on collection 'rag' with query: Hello, how can you help me today?
+2024-11-07 16:28:18,643 - INFO - Use pytorch device_name: cpu
+2024-11-07 16:28:18,644 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-11-07 16:28:18,953 - INFO - Similarity search performed on collection 'rag' with query: Hello, how can you help me today?
+2024-11-07 16:30:30,671 - INFO - Use pytorch device_name: cpu
+2024-11-07 16:30:30,672 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-11-07 16:30:30,929 - INFO - Similarity search performed on collection 'rag' with query: Hello, how can you help me today?
+2024-11-07 16:30:54,677 - INFO - Use pytorch device_name: cpu
+2024-11-07 16:30:54,678 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-11-07 16:30:54,904 - INFO - Similarity search performed on collection 'rag' with query: Hello, how can you help me today?
+2024-11-07 16:31:08,696 - INFO - Use pytorch device_name: cpu
+2024-11-07 16:31:08,697 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-11-07 16:31:08,931 - INFO - Similarity search performed on collection 'rag' with query: Hello, how can you help me today?
+2024-11-07 16:33:07,337 - INFO - Use pytorch device_name: cpu
+2024-11-07 16:33:07,338 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-11-07 16:33:07,600 - INFO - Similarity search performed on collection 'rag' with query: Hello, how can you help me today?
+2024-11-07 16:45:59,000 - INFO - Deleted './chroma' directory.
+2024-11-07 16:45:59,016 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-11-07 16:46:10,735 - INFO - Use pytorch device_name: cpu
+2024-11-07 16:46:10,736 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-11-07 16:46:11,423 - ERROR - Error creating database 'rag': Error loading rto_dataset.txt
+2024-11-07 16:46:11,423 - ERROR - Error initializing databases: 500: Error loading rto_dataset.txt
+2024-11-07 16:48:25,174 - INFO - Deleted './chroma' directory.
+2024-11-07 16:48:25,181 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-11-07 16:48:27,874 - INFO - Use pytorch device_name: cpu
+2024-11-07 16:48:27,875 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-11-07 16:48:28,444 - INFO - Collection 'rag' created successfully.
+2024-11-07 16:48:28,501 - INFO - HTTP Request: GET https://chroma-onnx-models.s3.amazonaws.com/all-MiniLM-L6-v2/onnx.tar.gz "HTTP/1.1 200 OK"
+2024-11-07 16:48:31,073 - INFO - Database 'rag' created with 19 documents.
+2024-11-07 16:48:31,074 - INFO - Database 'rag' created successfully.
+2024-11-07 16:48:31,074 - INFO - Databases initialized successfully.
+2024-11-07 16:48:55,365 - INFO - Use pytorch device_name: cpu
+2024-11-07 16:48:55,366 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-11-07 16:48:55,748 - INFO - Similarity search performed on collection 'rag' with query: Hello, how can you help me today?
+2024-11-07 16:52:06,246 - INFO - Use pytorch device_name: cpu
+2024-11-07 16:52:06,246 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-11-07 16:52:06,475 - INFO - Similarity search performed on collection 'rag' with query: Hello, how can you help me today?
+2024-11-07 16:57:00,746 - INFO - Use pytorch device_name: cpu
+2024-11-07 16:57:00,746 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-11-07 16:57:00,996 - INFO - Similarity search performed on collection 'rag' with query: Hello, aur kaise ho
+2024-11-07 16:59:21,759 - INFO - Use pytorch device_name: cpu
+2024-11-07 16:59:21,760 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-11-07 16:59:22,122 - INFO - Similarity search performed on collection 'rag' with query: Hello, aur kaise ho
+2024-11-07 16:59:31,926 - INFO - Use pytorch device_name: cpu
+2024-11-07 16:59:31,927 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-11-07 16:59:32,577 - INFO - Similarity search performed on collection 'rag' with query: Hello, aur kaise ho
+2024-11-07 17:01:50,894 - INFO - Use pytorch device_name: cpu
+2024-11-07 17:01:50,895 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-11-07 17:01:51,790 - INFO - Similarity search performed on collection 'rag' with query: Hello

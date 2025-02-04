@@ -1,0 +1,1128 @@
+Question: I am trying to pay Motor Vehicle tax but getting message  Alert!!! Vehicle is blacklisted.
+Answer: the vehicle is blacklisted then customer cannot avail any Vahan services like Tax for that vehicle. To pay the road tax customer has to remove their vehicle from blacklist by contacting respective departments and then proceed with Vahan services.
+ 
+Question: I am trying to pay Motor Vehicle tax online but transaction is showing pending.
+Answer: This is because previous transaction of same vehicle must be pending, new transaction is not possible without complete settlement of previous pending transaction. Customer can check current status of transaction by going to Check Pending Transaction
+ 
+Question: Can user pay Motor Vehicle Tax online and where?
+Answer: Yes, Motor Vehicle Tax can be paid from portal parivahan.gov.in or from State transport portal.
+ 
+Question: I am trying to pay Motor Vehicle tax but after payment I am getting an error message, This transaction is failed please initiate new transaction.
+Answer: the amount is debited from the customer's bank account, he/she should wait as reconciliation could be pending from the bank side. Customers should keep checking high transaction status through Check pending transactions (as defined elsewhere in this FAQ).
+ 
+Question: I am trying to pay Motor Vehicle tax but when I click on payment option nothing happens, a blank page is displayed.
+Answer: Customer can retry for the payment after sometime and if the problem continues, he/she can contact Vahan Helpdesk for issue reporting.
+ 
+Question: Which mobile number do I have to use to avail online Motor vehicle tax payment option?
+Answer: Citizen can avail this facility by entering any mobile number, he/she will get OTP for confirmation of mobile number. After confirmation he/she can proceed further for payment process.
+ 
+Question: Why am I getting following alert message after entering vehicle registration number Alert! This service has not been activated for the concern State/RTO ?
+Answer: Online tax payment facility is only available at selected State / RTO, as permitted by State Transport Department. Only a few States and its online RTO are covered under facility.
+ 
+Question: What forms are required while paying tax online?
+Answer: There is no need of any form for paying tax online.
+ 
+Question: For how much time duration Motor Vehicle tax is paid and when?
+Answer: Tax depends upon the type of vehicle  For Non-Transport vehicle-Motor vehicle tax is taken at one time lifetime (15 years). After 15 years tax can be paid during the renewal of registration for 5 years period. In most of the state MV Tax for Non-transport
+ 
+Question: What is Motor Vehicle Tax and how it is decided?
+Answer: In India, motor vehicle tax is imposed by state governments. The motor vehicle tax is calculated on the basis of various factors including engine capacity, seating capacity, unladen weight, laden weight and cost price of vehicle.
+ 
+Question: Do I need to pay tax when I'm is not using my commercial vehicle on road?
+Answer: the Transport vehicle is not on Road / Not in Use, then Vehicle owner can apply for Tax Exemption of non use period through concerned Transport department, process varies from state to state.
+ 
+Question: What are the other tax components?
+Answer: Other Tax components recovered from vehicle owner are additional MV tax, environment tax, green tax, cess, road safety tax, Municipality Tax etc. These taxes may vary from state to state.
+ 
+Question: (Applicable for Jharkhand only) I paid Motor Vehicle Tax for my vehicle; amount was debited but the receipt was not generated. Upon checking the pending transaction, I cannot locate any option for refund.
+Answer: Refund option is only available for the same day of payment till 12PM. In any other case, please write to us (Link of Contact Us here)
+ 
+Question: What is additional MV tax? Is it implied on all category of vehicles?
+Answer: Additional Motor Vehicle tax is implied on the vehicle when certain parameters exceed the prescribed limit for the vehicle. For example – Unladen weight of vehicle exceeds 50000kg, etc.
+ 
+Question: Why do I get “No record found” message for my vehicle?
+Answer: Currently, the facility has not reached all the States/RTOs. Also, there is a chance that not all the records have been migrated to online portal. Hence, it is suggested that you may visit your State Website/ Local RTO for help.
+ 
+Question: Why Motor Vehicle Taxes are different in different States?
+Answer: Motor Vehicle tax is imposed by states and each State has their own State motor vehicle act, and the taxation is decided according to that.
+ 
+Question: If a citizen has applied for NOC, why is he/she not able to avail any other online service for vehicle?
+Answer: Till NOC process is completed, the citizen cannot apply for any other service during that tenure. Once NOC application is approved, the user is eligible to apply for other services
+ 
+Question: How do I pay my vehicle’s tax online?
+Answer: a.	Visit https://vahan.parivahan.gov.in/vahanservice/vahan/
+b.	Enter your "Vehicle Registration Number"
+c.	Click on "Proceed"
+d.	Click on "Online Services"
+e.	Select "Pay Vehicle Tax"
+f.	Enter last 5 Digit of Chassis No. and click on "Validate Regn_no/Chasi_no"
+g.	Click on ‘Generate OTP’
+h.	Enter the OTP received on registered mobile number and Submit
+i.	Update "Insurance Details"
+j.	Review the Fee Panel and Proceed
+k.	Pay the Fees, as shown 
+Question: How do I surrender my vehicle registration certificate?
+Answer: a.	Visit https://vahan.parivahan.gov.in/vahanservice/vahan/
+b.	Enter your "Vehicle Registration Number"
+c.	Click on "Proceed"
+d.	Click on "Online Services" and Select "RC SURRENDER"
+e.	Enter Last 5 Digit of Chassis No and Click on "Validate Regn_no/Chasi_no"
+f.	Click on Generate OTP and Enter OTP to Submit
+g.	Enter "Service Details"
+h.	Update "Insurance Details"
+i.	Review Fee Panel and Proceed
+j.	Pay fee as it Shows
+k.	Upload Doc(If Configurable) 
+Question: How do I check pending transactions against my Vehicle?
+Answer: a.	Visit https://vahan.parivahan.gov.in/vahanservice/vahan/
+b.	Click on "Status" and Select "Check Pending Transaction",
+c.	Enter your Registration No., Chassis No. (Last 5 Digit) or Transaction Number
+d.	Click on "Show Details" button
+e.	Click on "Transaction Number" to Clear the Pending Transaction.
+ 
+Question: How do I reprint e-receipt?
+Answer: a.	Visit https://vahan.parivahan.gov.in/vahanservice/vahan/
+b.	Click on "Status" and Select "Reprint Receipt/forms"
+c.	Select application type and transaction
+d.	Enter your Registration No., Chassis No. (Last 5 Digit)
+e.	Click "Show Details" button
+f.	After that click on "Transaction Number"  and take print out of Receipt
+ 
+Question: I forgot to print my appointment receipt. How can I reprint it?
+Answer: a.	Visit https://vahan.parivahan.gov.in/vahanservice/vahan/
+b.	Click on "Other Online Services" and Select "Reprint appointment receipt"
+c.	Enter Application Number
+d.	Click on "Get Details"
+e.	Take print out of appointment
+ 
+Question: How do I get a Duplicate Fitness Certificate?
+Answer: a.	Visit https://vahan.parivahan.gov.in/vahanservice/vahan/
+b.	If you are New User Kindly "Register" First or Login and Continue
+c.	Enter Registration Number and Click on "Proceed"
+d.	Click on "Online Services" and Select "Duplicate of Fitness Certificate"
+e.	Enter your Last 5 Digit of Chassis No and Click on "Validate Regn_no/Chasi_no"
+f.	Click on Generate OTP and Enter OTP and Submit
+g.	Enter "Service Details"
+h.	Update "Insurance Details"
+i.	Take Appointment 
+Question: How do I apply for renewal of my permit?
+Answer: a.	Visit https://vahan.parivahan.gov.in/vahanservice/vahan/ui/statevalidation/hom...
+b.	Click on "Other Online Services" and Select "Online Permit"
+c.	Select a state for which you want to apply and then click on "Proceed"
+d.	Enter your Registration No. and Last 5 Digit of Chassis No and then click on "Proceed"
+e.	Enter your current mobile no or this may be appear and disabled as per your state configuration. 
+Question: How do I change my mobile number for my application?
+Answer: a.	Visit https://vahan.parivahan.gov.in/vahanservice/vahan/
+b.	If you are New User Kindly "Register" First or Login and Continue
+c.	Click on "Other Services” and Select "Update User Mobile No"
+d.	Enter your Registration No., Chassis No. (Complete), Engine No. (complete) and Previous Registered Mobile Number
+e.	Click on Generate OTP and Enter OTP to Submit
+f.	Enter new Mobile Number and Click on "UPDATE" button
+ 
+Question: I do not want to continue with my Application, how do I dispose my application?
+Answer: a.	Visit https://vahan.parivahan.gov.in/vahanservice/vahan/
+b.	Click on "Status" and Select "Dispose Application"
+c.	Enter your Registration No., Chassis No. (Last 5 Digit), Engine No. (Last 5 Digit) and Mobile Number
+d.	Click on Generate OTP and Enter OTP and Submit
+e.	Select the Service to Dispose
+f.	If multiple services are there on one transaction, then partial withdrawal is possible.
+ 
+Question: How do I continue my vehicle hypothecation?
+Answer: a.	Visit https://vahan.parivahan.gov.in/vahanservice/vahan/
+b.	Enter your "Vehicle Registration Number"
+c.	Click on "Proceed"
+d.	Select the "Basic Services" Option
+e.	Enter your Registration No. and Last 5 Digit of Chassis No and Click on "Validate Regn_no/Chasi_no"
+f.	Click on Generate OTP and Enter OTP and Submit
+g.	Select "HYPOTHECATION CONTINUTION"
+h.	Enter "Service Details"
+i.	Update "Insurance Details"
+j.	Review Fee Panel and Proceed
+k.	Pay fee as it Shows 
+Question: How do I terminate my vehicle hypothecation?
+Answer: a.	Visit https://vahan.parivahan.gov.in/vahanservice/vahan/
+b.	Enter your "Vehicle Registration Number"
+c.	Click on "Proceed"
+d.	Select the "Basic Services" Option
+e.	Enter your Registration No. and Last 5 Digit of Chassis No and Click on "Validate Regn_no/Chasi_no"
+f.	Click on Generate OTP and Enter OTP and Submit
+g.	Select "HYPOTHECATION TERMINATION"
+h.	Enter "Service Details"
+i.	Update "Insurance Details"
+j.	Review Fee Panel and Proceed
+k.	Pay fee as it Shows 
+Question: How do I add my vehicle’s hypothecation details?
+Answer: a.	Visit https://vahan.parivahan.gov.in/vahanservice/vahan/
+b.	Enter your "Vehicle Registration Number"
+c.	Click on "Proceed"
+d.	Select the "Basic Services" Option
+e.	Enter your Registration No. and Last 5 Digit of Chassis No and Click on "Validate Regn_no/Chasi_no"
+f.	Click on Generate OTP and Enter OTP and Submit
+g.	Select "HYPOTHECATION Addition"
+h.	Enter "Service Details"
+i.	Update "Insurance Details"
+j.	Review Fee Panel and Proceed
+k.	Pay fee as it Shows 
+Question: I need to make changes to my registered vehicle details. How do I proceed?
+Answer: a.	Visit https://vahan.parivahan.gov.in/vahanservice/vahan/
+b.	If you are New User Kindly "Register" First or Login and Continue
+c.	Click on "Online Services" and Select "Alteration of Vehicle"
+d.	Enter your Registration No. and Last 5 Digit of Chassis No and Click on "Validate Regn_no/Chasi_no"
+e.	Click on Generate OTP and Enter OTP and Submit
+f.	Select single or multiple services as per your requirement
+g.	Enter "Service Details"
+h.	Update "Insurance Details" 
+Question: I have moved to a different state, how do I apply for a No Objection Certificate?
+Answer: a)	Visit https://vahan.parivahan.gov.in/vahanservice/vahan/
+b)	If you are New User Kindly "Register" First or Login and Continue
+c)	Click on "Online Services" and Select "NOC"
+d)	Enter your Registration No. and Last 5 Digit of Chassis No and Click on "Validate Regn_no/Chasi_no"
+e)	Click on Generate OTP and Enter OTP and Click on Submit Button
+f)	Enter "Service Details"
+g)	Update "Insurance Details"
+h)	Review Fee Panel and Proceed
+i)	Pay fee as it Shows 
+Question: How do I make changes to my details in Vehicle Registration Certificate?
+Answer: a.	Visit https://vahan.parivahan.gov.in/vahanservice/vahan/
+b.	Enter your "Vehicle Registration Number"
+c.	Click on "Proceed"
+d.	Select the "Basic Services" Option
+e.	Enter your Last 5 Digit of chassis No and Click on "Validate Regn_no/Chasi_no"
+f.	Generate OTP, Enter correct OTP and Submit
+g.	Select "Change Of Address"
+h.	Enter "Service Details"
+i.	Update "Insurance Details"
+j.	Review Fee Panel and Proceed
+k.	Pay fee as it Shows 
+Question: I have lost my registration certificate. How do I apply for a duplicate registration certificate?
+Answer: To create a duplicate registration certificate, follow the below steps
+a.	Visit https://vahan.parivahan.gov.in/vahanservice/vahan/
+b.	Enter your "Vehicle Registration Number"
+c.	Click on "Proceed"
+d.	Select the "Basic Services" Option
+e.	Enter your Last 5 Digit of chassis No and Click on "Validate Regn_no/Chasi_no"
+f.	Generate OTP, enter correct OTP and Submit
+g.	Select "Duplicate RC"
+h.	Enter "Service Details"
+i.	Update "Insurance Details" 
+Question: If I want to transfer the ownership of my vehicle, what should I do?
+Answer: In case the vehicle has been sold, passed on to another citizen, please follow the below steps for transfer of ownership
+a.	Visit https://vahan.parivahan.gov.in/vahanservice/vahan/
+b.	Enter your Vehicle Registration No.
+c.	Click on "Proceed"
+d.	Select the "Basic Services" Option
+e.	Enter the last 5 Digits of chassis no. and click on "Validate Regn_no/Chasi_no"
+f.	Generate OTP, enter correct OTP and submit
+g.	Select "Transfer of Ownership"
+h.	Enter "Service Details" 
+Question: How to make changes to my application after I submitted the information?
+Answer: a.	Visit https://vahan.parivahan.gov.in/vahanservice/vahan/
+b.	Enter the Registration Number
+c.	Click on Online Services and apply for the same application
+d.	Enter the last 5 digits of Chassis No. and Click on "Validate Regn_no/Chasi_no"
+e.	There are three actions provided, i.e. ‘Edit’, ‘Delete’ and ‘click to View Summary’
+f.	Click on ‘Edit’, for editing the application, as required
+ 
+Question: What is e-signed documents
+Answer: e-signed document are generated after application is submitted (Form 2)
+ 
+Question: Is Form 1A Mandatory for Learner Licence Test?
+Answer: No,
+Medical Certificate (FORM 1A) is required for applicants having age equal to or above 40 years.
+ 
+Question: Is Form 1 Mandatory for Learner Licence Test?
+Answer: Yes, Form 1 is self declaration medical
+ 
+Question: How to upload the documents for the learner's license?
+Answer: Steps to Upload/Re-upload scanned document in License :-
+1. Visit https://sarathi.parivahan.gov.in/
+2. Select concerned state
+3. Click on "Upload Document"
+4. Select "Upload Document/Scanned or "View Document"
+Note :
+This Services is available as per states customization.
+ 
+Question: I already uploaded the necessary documents. But, now I want to replace one document with another?
+Answer: Steps to Upload/Re-upload scanned document in License :-
+1. Visit https://sarathi.parivahan.gov.in/
+2. Select concerned state
+3. Click on "Upload Document"
+4. Select "Upload Document/Scanned or "View Document"
+Note :
+This Services is available as per states customization.
+ 
+Question: Having error while uploading the documents
+Answer: Read the error message carefully & check document name and size while uploading.
+ 
+Question: I have multiple pages of documents, how to upload in single file?
+Answer: Document need to be single jpeg copy or PDF file in the given size only. You may use online option to compress them.
+ 
+Question: Limit is exceeded for the specified document because it has multiple pages.
+Answer: Document need to be single jpeg copy or PDF file in the given size only. You may use online option to compress them.
+ 
+Question: I have uploaded all the documents but in application status it's still asking me to upload documents
+Answer: Steps to check License status:
+1. Visit https://sarathi.parivahan.gov.in/
+2. Select concerned state
+3. Select "Application Status" from "Apply Online" menu
+ 
+Question: How can I upload photo and signature?
+Answer: Steps to Upload Photograph and Signature document in License :-
+1. Visit https://sarathi.parivahan.gov.in/
+2. Select concerned state
+3. Click on "Upload Document"
+4. Select "Upload Photograph and Signature" From "Upload Documents" menu.
+Note : This Services is available as per states customization.
+ 
+Question: While uploading Photo and signature, I face an error
+Answer: Read the error message carefully & check document name and size while uploading. Images file type should be in "jpeg" format
+ 
+Question: Photo and signature have been uploaded successfully but in application status its showing pending
+Answer: Steps to check License status:
+1. Visit https://sarathi.parivahan.gov.in/
+2. Select concerned state
+3. Select "Application Status" from menu
+4. Click on "Refresh" button
+ 
+Question: How can I upload document against application number?
+Answer: Steps to Upload/Re-upload scanned document in License:-
+1. Visit https://sarathi.parivahan.gov.in/
+2. Select concerned state
+3. Click on "Upload Document"
+4. Select "Upload Document/Scanned images"
+Note : This Services is available as per states customization.
+ 
+Question: How to modify/re-upload the documents?
+Answer: Steps to Upload/Re-upload scanned document in License:-
+1. Visit https://sarathi.parivahan.gov.in/
+2. Select concerned state
+3. Click on "Upload Document"
+4. Select "Upload Document/Scanned images"
+Note :This Services is available as per states customization.
+ 
+Question: Why need to upload learner's License copy when it's been issued by the department?
+Answer: It is as per state policy.
+ 
+Question: My state name is not available on parivahan portal. What should I do?
+Answer: You need to contact your Zonal Office/Transport Department, while carrying the original document(s)
+ 
+Question: How to apply for learner's License?
+Answer: Steps to for Learners' Licence for New Learner's License (Flow may be differ from state to state):-
+1.	Visit https://sarathi.parivahan.gov.in/
+2.	Select concerned state
+3.	Click on "Application for New Learners License" from "Learner's License" menu
+4.	Fill up Learner's License application Form
+5.	Click on Next Button to proceed
+6.	Visit RTO on scheduled date with original documents & Fee Slip
+ 
+Question: My RTO name is not available/ populating on parivahan portal.
+Answer: You need to contact your Zonal Office/Transport Department, while carrying the original document(s).
+ 
+Question: When I try to enter the pin code for my State, I am unable to proceed as pin code mapping is not present. What should I do?
+Answer: You need to contact your Zonal Office/Transport Department, while carrying the original document(s)
+ 
+Question: My learner's license has expired. Could this be renewed or shall I apply for a new one?
+Answer: Learner's License validity is for 6 Months and post expiry you can only get a new Learner's License. The expired License cannot be renewed.
+ 
+Question: How to apply for addition of class of vehicle in my existing Driving License
+Answer: Any citizen who wants to add a category of vehicles in their license must take the following steps
+Steps to follow for Additional Endorsement in License (Flow may be differ from state to state):-
+1.	Visit https://sarathi.parivahan.gov.in/
+2.	Proceed for License related services
+3.	Select concerned state
+4.	Click on "Application for New Learners License" from "Learner's License" menu
+5.	Select "Applicant holds Driving License, Enter DL Number"; fill your Driving License number and Date of Birth 
+
+Question: I already having a valid Driving License, should I have to apply for Learner's License to add another class of vehicle?
+Answer: Yes. Any user who needs to add a category should follow the following steps. Steps to follow for Additional Endorsement in License (Flow may be differ from state to state):-
+1.	Visit https://sarathi.parivahan.gov.in/
+2.	Proceed for License related services
+3.	Select concerned state
+4.	Click on "Application for New Learners License" from "Learner's License" menu
+5.	Select "Applicant holds Driving License, Enter DL Number"; fill your Driving License number and Date of Birth
+6.	Fill up Application Form 
+
+Question: My district/ sub district / village name is not coming in the list but it's a mandatory field. How should I proceed?
+Answer: You can call us on our Helpline number: +91-120-2459169 (Timings: 06:00AM - 10:00PM)
+Email: helpdesk-sarathi@gov.in
+ 
+Question: My name/father's middle name is more than 6 characters but system not accepting.
+Answer: You may fill it along with the first or last name.
+ 
+Question: I am illiterate, can I apply for the driving License/Learner's License
+Answer: Yes, you can apply for Driving License in India.
+ 
+Question: I am not able to choose COV for SCOOTY, please suggest which category should I take MCWOG/MCWG/MC50CC
+Answer: Full Form for MCWOG: Motor cycle without Gear.
+MCWG: Motor Cycle with Gear
+MC50CC: Motor vehicle with engine capacity less than 50CC
+Note: The vehicle category is as per the state jurisdiction
+ 
+Question: Can color blind applicant apply for the driving/learner's license?
+Answer: Yes, you need to get the medical certificate from the hospital.
+ 
+Question: Can one eyed applicant apply for the driving/learner's license
+Answer: No
+ 
+Question: I am 16 Years Old, which class of vehicle I can apply.
+Answer: The age criteria are as follows:
+1.	16 years of age for MCWOG vehicle class (Private Vehicle)
+2.	18 years of age for LMV (Light Motor Vehicle) & MCWG vehicle class (Private Vehicle)
+3.	20 years of age for Transport Vehicle
+4.	18 years of age for Conductor License
+ 
+Question: I have not received my application number on my mobile/email. Where to get application number?
+Answer: Steps follow for Find Application Number:-
+1.	Visit https://sarathi.parivahan.gov.in/
+2.	Select concerned state
+3.	Click on "Find Application Number" from "Others" menu
+ 
+Question: How can I change my particulars after submission of application and fee payment yet to be submitted?
+Answer: Steps to modify Particular:
+1.	Visit https://sarathi.parivahan.gov.in/
+2.	Select concerned state
+3.	Select the "Application Edit (Learners' License Only)" from "Learner's License" menu
+4.	Fill up Application Details
+5.	Visit RTO on scheduled date, with original documents
+ 
+Question: How can I change my particulars after submission of application and completion of payment?
+Answer: You may approach to the RTO at scrutiny counter to get them modify, but it is as per the state jurisdiction.
+ 
+Question: How to know the status of my application?
+Answer: Steps to check License status:
+1.	Visit https://sarathi.parivahan.gov.in/
+2.	Select concerned state
+3.	Select "Application Status" top menu
+ 
+Question: How can I add another class of vehicle after submission of the application?
+Answer: Steps to Modify Application:
+1.	Visit https://sarathi.parivahan.gov.in/
+2.	Select concerned state
+3.	Select the "Add Class of vehicles" from "Others" menu
+4.	Enter "Application number & Date of birth" and click "Submit"
+5.	Fill up the Details
+6.	Visit RTO on scheduled date, with original documents
+ 
+Question: Can I remove any class of vehicle after submission of the application?
+Answer: Steps to follow to apply for service withdrawn:
+1.	Visit https://sarathi.parivahan.gov.in/
+2.	Select concerned state
+3.	Click on "Services Withdrawn by an Applicant" License" from "Others" menu
+4.	Enter OTP
+5.	Submit your Request
+Note:
+This Service is available as per states customization.
+ 
+Question: How to change/update mobile number after application submission?
+Answer: Steps follow for update mobile number in License:-
+1.	Visit https://sarathi.parivahan.gov.in/
+2.	Select concerned state
+3.	Click on "Mobile Number Update" from "Others" menu
+ 
+Question: How to change/update email ID after application submission?
+Answer: You need to contact your Zonal Office/Transport Department, while carrying the original document(s)
+ 
+Question: How to check the status of my application at any stage?
+Answer: Steps to check License status:
+1.	Visit https://sarathi.parivahan.gov.in/
+2.	Select concerned state
+3.	Select "Application Status" menu
+ 
+Question: The session expired while applying for Learner License or Driving License. What should I do?
+Answer: The session does not save any data. The applicant should apply again for the same
+ 
+Question: I am not an Indian citizen; can I apply for Indian Driving License?
+Answer: Yes, you can apply for Driving License in India.
+Eligibility criteria:-
+1.	If you are a Diplomat: You can apply for Driving License directly.
+2.	If you are a Non-Diplomat: You have to apply for Learner's License, before proceeding for Driving License.
+ 
+Question: Can I apply two learner's license for the same category
+Answer: No
+ 
+Question: I already having a valid Learner's License, should I apply Learners' License for another class of vehicle?
+Answer: No, you can endorse the class of vehicle on the same Learning License
+ 
+Question: How to apply learner's license for different class of vehicle in case of already possession of a valid Learners' License?
+Answer: You can endorse the class of vehicle on the same Learning License
+ 
+Question: How do I apply for the CAMP registration?
+Answer: You need to contact your Zonal Office/Transport Department
+ 
+Question: Where do I get the pre-filled application forms?
+Answer: Steps follow for Application Form:-
+1.	Visit https://sarathi.parivahan.gov.in/
+2.	Select concerned state
+3.	Click on "Print Application Form" from "Others" menu
+ 
+Question: Why should I print the form if application has filed online?
+Answer: The requirement may differ as per state policy. You need to follow the instructions provided by the State.
+ 
+Question: I want to apply for a Learner's License test. Is there any test involved?
+Answer: I want to apply for a Learner's License test. Is there any test involved?
+Yes, you have to pass the online test (test) to get Learner's License. You can practice (sample set of questions) here:-
+1.	Visit https://sarathi.parivahan.gov.in/
+2.	Select concerned state
+3.	Select "Sample Question for Learners' License Test" from "Learner License" menu
+ 
+Question: I have applied for a learner's license for addition of class of vehicle. Am I required to take the Learners License test?
+Answer: No, Learners' License test is not required
+ 
+Question: Can I give exam from home or I will have to go to the concerned RTO?
+Answer: You need to report the concerned RTO or their authorized learning license test center.
+ 
+Question: Learner's License exam stopped due to error while taking the test. What should I do?
+Answer: You need to report the concerned RTO or examination authority.
+ 
+Question: What is the eligibility to be qualified for obtaining Learner's License?
+Answer: Yes, you have to pass the online test (STALL Test) to get Learner's License. After the completion of its one month you need to appear for driving test to get your driving license.
+ 
+Question: What are the probable questions for Learner's License test to be qualified for obtaining Learner's License?
+Answer: You can practice some Learners License test questions (sample set of questions) here:-
+1.	https://sarathi.parivahan.gov.in/
+2.	Select concerned state
+3.	Click on "Sample question for LL Test" from "Learner License" menu
+ 
+Question: Is any mock test available for Learner's License?
+Answer: Yes, you can practice mock test here (sample set of questions) here:-
+1.	Visit https://sarathi.parivahan.gov.in/
+2.	Select concerned state
+3.	Select "Mock Test for Learners' License" from "Learner License" menu
+ 
+Question: What is the meaning of Online Test for learner's License?
+Answer: The test which is taken up by the Transport Department to issue the learners license via online mode.
+ 
+Question: What will be the steps of online learning License Test?
+Answer: Steps to follow for online Learner's License:-
+1.	Visit https://sarathi.parivahan.gov.in/
+2.	Select concerned state
+3.	Click on "Online Learners' License Test (STALL)" from "Learner License" menu
+4.	Enter "Learners' License Application", "Date of Birth" and Password
+5.	Click on Login Button to proceed
+Note: These Services are available in some states only.
+ 
+Question: How to get my exam test sheet with complete details of test attempted
+Answer: You need to ask your concerned RTO for the same.
+ 
+Question: What is the validity of Learner License?
+Answer: Learner's License validity is for 6 Months, and you can apply for New Driving License after 30 days.
+ 
+Question: After online procedure is completed why should we visit the RTO?
+Answer: After completing online procedure for further processing of application you should visit the concerned RTO office with the required documents as shown on the acknowledgement slip. You should also carry a copy of the fee receipt
+ 
+Question: What is the meaning of "Application is under scrutiny & processing at RTO Level"?
+Answer: Application under scrutiny means applicant is required to visit the concerned RTO for physical verification  of documents, and submit his/ her Biometrics to complete the application process.
+ 
+Question: Why should I visit RTO even after successful submission of application?
+Answer: After completing online procedure for further processing of application you should visit the concerned RTO office with the required documents as shown on the acknowledgement slip. You should also carry a copy of the fee receipt
+ 
+Question: How can I update my Learners' License mobile number?
+Answer: Steps follow for Mobile number update in License:-
+1.	Visit https://sarathi.parivahan.gov.in/
+2.	Select concerned state
+3.	Click on "Mobile Number Update" from "Others" menu
+ 
+Question: Is Learner's License valid throughout India?
+Answer: Yes, its valid throughout India
+ 
+Question: I have passed Learners License test and application has been approved, how can I download the print out?
+Answer: Steps to Print Learner's License:-
+1.	Visit https://sarathi.parivahan.gov.in/
+2.	Select concerned state
+3.	Click on "Learner License" menu
+4.	Click on print Learners License (FORM3)
+5.	Fill Application number & Date of Birth AND Submit.
+Note: This Service is Applicable only in some states.
+ 
+Question: Learner's License print option is available but message showing this facility is not available for your state.
+Answer: This is as per the state jurisdiction; your state is not allowing printing by the applicant.
+ 
+Question: How to renew of Learner's License
+Answer: Learners' License cannot be renewed and New Learners' License shall be issued. Applicants can visit
+1.	https://sarathi.parivahan.gov.in/
+2.	Select concerned state
+3.	Click on "Expired Learner License Issue Again" from "Learner's License" menu
+ 
+Question: What are the documents required to be carried to the RTO office?
+Answer: 1.	Check the application status and click on print acknowledgment which shows required documents.
+2.	Click on print Form 1 & can download application form & Form 1A
+3.	Click on Appointment letter from the same application status.
+4.	Fee receipt.
+ 
+Question: How can I take re-appointment for Learner License Test?
+Answer: Take re-appointment through visit https://sarathi.parivahan.gov.in/ >> Select State >> Click on "Appointments" >> Slot booking Learners' License Test.
+ 
+Question: Can I apply for Driving License after the Learner License has expired?
+Answer: No. Apply for Driving License before your Learner License expires and complete the driving test.
+ 
+Question: What happens if I am absent/ failed on the day of the Learner License Test?
+Answer: You have to pay Retest fee and book fresh appointment. 
+For Retest payment visithttps://sarathi.parivahan.gov.in/ >> Select State >> and Click on Fee Payments >> Fee Payments. 
+For Re-appointment through visithttps://sarathi.parivahan.gov.in/ >> Select State >> Click on "Appointments" >> Slot booking Learner's License Test.
+ 
+Question: I did not attend Learner License test on the scheduled date of appointment?
+Answer: Re-schedule the appointment, subject to availability of slots.
+ 
+Question: How can I obtain a Permanent Driving Licence?
+Answer: Steps to follow for New Driving License :-
+1. Visit https://sarathi.parivahan.gov.in/
+2. Select concerned state
+3. Click on "New Driving Licence" from "Driving Licence" menu
+4. Enter your "Learning License Number" & "Date of Birth" to proceed further
+5. Fill up application Form
+6.Click on Next Button to proceed
+7. Visit RTO on scheduled date with original documents & Fee Slip
+ 
+Question: I have withdrawn a class of vehicle but fees is still showing pending for this Class of Vehicles
+Answer: You need to contact your Zonal Office/Transport Department, while carrying the original document(s) or you may approach helpdesk.
+ 
+Question: While applying the new Driver's License application system shows you have already generated application for New Driver's License. How should I check?
+Answer: Steps to check License status:
+1. Visit https://sarathi.parivahan.gov.in/
+2. Select concerned state
+3. Select "Application Status" from menu
+ 
+Question: My learner's License details are not found when I want to apply for a Driver Licence
+Answer: Verify your learner's number while entering if still find issue contact Zonal Office
+ 
+Question: What kind of vehicles are necessary to be taken for a driving test for issue of MCWG category of driving licence
+Answer: Motor cycle with gear (e.g. Bike)
+ 
+Question: Can I Edit the Driving Licence application form after submission?
+Answer: You need to contact your Zonal Office/Transport Department, while carrying the original document(s)
+ 
+Question: What should I do if I have submitted wrong information in my application?
+Answer: You need to contact your Zonal Office/Transport Department, while carrying the original document(s)
+ 
+Question: I have a Driving license issued in one state but I need to apply for a licence for another category of vehicle in a different state, with my current proof of address
+Answer: Permanent licence is issued from the same state your learner is issued.
+ 
+Question: How can I check my application status?
+Answer: Steps to check License status:
+1. Visit https://sarathi.parivahan.gov.in/sarathiservice/stateSelection.do
+2. Select concerned state
+3. Select "Application Status" from "Apply Online" menu
+ 
+Question: I have lost my learner's License, can I apply for permanent Driver's License with having Learner's License?
+Answer: You need to contact your Zonal Office/Transport Department, while carrying the original document(s)
+ 
+Question: Can I apply for different RTO in place of learner's license issued from
+Answer: Yes, you can apply, if your states is allowed for that otherwise Permanent licence is issued from the same RTO your learner license is issued.
+ 
+Question: I have multiple learning license, how to apply for permanent  Driver's License?
+Answer: You need to apply while your Learner's License is still valid.
+ 
+Question: How to apply for Diplomat Driving licence?
+Answer: Yes, you can apply for Driving License in India.
+Eligibility criteria :-
+1) If you are a Diplomat: You can apply for Driving License directly.
+2) If you are a Non-Diplomat: You have to apply for Learner's License, before proceeding for Driving License.
+ 
+Question: I am a foreigner, can I apply Driver's License on the basis of my country's Driver's License
+Answer: Yes, you can apply for Driving License in India.
+Eligibility criteria :-
+1. If you are a Diplomat: You can apply for Driving License directly.
+2. If you are a Non-Diplomat: You have to apply for Learner's License, before proceeding for Driving License.
+ 
+Question: Is it Medical certificate required for applicant to apply for New Driving License?
+Answer: Medical Certificate (FORM 1A) is required for applicants having age equal to or above 40 years, in case of less than 40 you need to submit FORM 1.
+ 
+Question: After how many days of Learner's License issuance I am eligible to apply Driving License
+Answer: Learner's Licence validity is for 6 months, and you can apply for New Driving Licence after 30 days.
+ 
+Question: How do I apply for the CAMP?
+Answer: First you need to submit the application for new driving license & on behalf of generated application number you can submit the application for CAMP.
+Steps to Learner's License for CAMP:-
+1. Visit https://sarathi.parivahan.gov.in/
+2. Select concerned state
+3. Click on "Camp Registration" from "Others" menu
+4.Click on Next Button to proceed
+5. Visit CAMP on scheduled date with original documents & Fee Slip
+Note: This Services is Applicable only in some states.
+ 
+Question: I have lost my application number, how to search it?
+Answer: Steps follow for Find Application and Find Application Number :-
+1. Visit https://sarathi.parivahan.gov.in/
+2. Select concerned state
+3. Click on "Find Application Number" from "Others" menu
+ 
+Question: Where do I get the pre-filled application forms
+Answer: Steps follow to Print Application Form:-
+1. Visit https://sarathi.parivahan.gov.in/sarathiservice/stateSelection.do
+2. Select concerned state
+3. Click on "Print Application Form" from "Download Forms" menu
+ 
+Question: Why should I print the form if application has filed online?
+Answer: This is as per the state policy.
+ 
+Question: What type of test would be conducted at RTO?
+Answer: To obtaining a driving license one needs to undergo a Motor Driving test (on vehicle)
+ 
+Question: I have got the certificate from Driving Training School, is my Learner's License test exempted?
+Answer: Yes, it is. (This will come under the state jurisdiction)
+ 
+Question: Should I have to bring my own vehicle for driving skill test?
+Answer: To obtaining a driving license one needs to undergo a Motor Driving test (on vehicle) but vehicle may not be required.
+ 
+Question: Can I go on two different dates to give driving test for different class of vehicle?
+Answer: Yes, if you have booked appointment for two different dates, you may approach for it.
+Note: This is as per state policy.
+ 
+Question: Can the Driving Licence be dispatched to the applicant’s address?
+Answer: This is as per the state policy.
+ 
+Question: Status of my Application is shown as "Driver's License approved" but the licence is not yet received?
+Answer: You need to contact your Zonal Office/Transport Department, while carrying the original document(s)
+ 
+Question: How do I know the dispatch status of my Driving Licence to my current address
+Answer: Steps to check License status:
+1. Visit https://sarathi.parivahan.gov.in/
+2. Select concerned state
+3. Select "Application Status" from menu
+ 
+Question: What is the validity of the Driving License?
+Answer: Private Driving license is valid for 20 years from the date of issue or till the holder attains 40 years of age, which comes earlier.
+After the age of 40 the Driving licence will be issued for 10 years & then  5 years subsequently.
+Validity for Non Transport Vehicles
+(a) If the age of the applicant on the date of issue or renewal is less than 30 years, then  the Non Transport Validity would be till the attainment of 40 years 
+Question: What is the validity of endorsement to drive vehicles carrying hazardous goods?
+Answer: Commercial Driving license is valid for 5 years from the date of issue. Hazardous Validities have been changed from 1 year to 3 years
+ 
+Question: I have passed in both the categories but driving license received only for single category
+Answer: You need to contact your Zonal Office/Transport Department, while carrying the original document(s)
+ 
+Question: How Foreign Driver's License holder or defence personnel obtain Driver's License?
+Answer: Applicants can visit https://sarathi.parivahan.gov.in/
+1. Driving Licence
+2. New Driving Licence. Where these options are available to apply Driver's License
+ 
+Question: What to do in case my Driving License details are not showing on SARATHI portal?
+Answer: You need to contact your Zonal Office/Transport Department, while carrying the original document(s)
+ 
+Question: I have removed any particular service but fees is still showing that services
+Answer: You need to contact your Zonal Office/Transport Department, while carrying the original document(s), or you may approach to the helpdesk.
+ 
+Question: Drivers License record data is not showing correctly/incomplete but in physical Drivers License it's correct
+Answer: You need to contact your Zonal Office/Transport Department, while carrying the original document(s)
+ 
+Question: Latest record of Drivers License is not showing on SARATHI portal
+Answer: You need to contact your Zonal Office/Transport Department, while carrying the original document(s)
+ 
+Question: I don’t know in which RTO I have to  apply for Renewal of Drivers License
+Answer: You need to select the RTO in which your last transaction is completed or the nearest RTO.
+ 
+Question: I don’t know in which RTO I have to  apply for Duplicate Drivers License
+Answer: You need to select the RTO in which your last transaction is completed
+ 
+Question: What will be the process of Drivers License renewal/Duplicate?
+Answer: Steps follow to apply for RENEWAL of License :-
+1. Visit https://sarathi.parivahan.gov.in/
+2. Select concerned state
+3. Click on "Services on Drivers License(Renewal/Duplicate/AEDL/Others)" from "Driving License" menu
+4. Fill up application form
+5. Click on "Next Button" to proceed
+6. Visit RTO on scheduled date, with original documents & Fee Slip
+Note : 
+Question: Any specific Drivers License related service is not showing while applying on SARATHI
+Answer: You need to contact your Zonal Office/Transport Department, while carrying the original document(s)
+ 
+Question: Can I add/remove any Drivers License related service after submission of application
+Answer: Steps to follow to apply for service withdrawn:-
+1. Visit https://sarathi.parivahan.gov.in/
+2. Select concerned state
+3. Click on "Services Withdrawn by an Applicant" License" from "Others" menu
+4. Enter OTP
+5. Submit your Request 
+Question: My District/sub district/village name is not listed while applying Drivers License related services
+Answer: You need to contact your Zonal Office/Transport Department, while carrying the original document(s), or you may approach to the helpdesk.
+ 
+Question: How to surrender any specific class of vehicle category?
+Answer: Steps to follow to apply for Surrender of COV :-
+1. Visit https://sarathi.parivahan.gov.in/
+2. Select concerned state
+3. Click on "Services on Drivers License (Renewal/Duplicate/AEDL/Others)" from "Driving License" menu
+4. Fill up application form
+5. Take appointment
+6. Visit RTO on scheduled date with original documents.
+Note : This Services is available in some states only.
+For any additional service(e.g. Change of address, Duplicate etc.), you can select it from the services menu.
+ 
+Question: I have two Drivers Licenses with different class of vehicle how to club/renew/duplicate it?
+Answer: Steps follow to apply for "Drivers License CLUB" :-
+1.Visit https://sarathi.parivahan.gov.in/sarathiservice/stateSelection.do
+2. Select concerned state
+4. Click on "Drivers License CLUB" from "Apply Online" menu
+5. Fill up application Form
+6. Take appointment
+7. Visit RTO on scheduled date original documents.
+Note : This Service is Applicable only in some states.
+ 
+Question: Is NOC required to renew my Drivers License in other state
+Answer: As per rule NOC is not required for Driving License
+ 
+Question: I have Drivers License of  state A and now I have moved to state B how can I apply for duplicate license in other state?
+Answer: A permanent Drivers License is valid throughout India. However, you can visit the local RTO for more information
+ 
+Question: How to apply for addition of class of vehicle, I have a valid learner's License
+Answer: Steps to follow for Additional Endorsement in License :-
+1. Visit https://sarathi.parivahan.gov.in/
+2. Proceed for License related services
+3. Select concerned state
+4. Click on "Services on Drivers License( Renewal/Duplicate/Additional Endorsement of Driving Licence/Others)" from "Driving License" menu
+5. Click "continue"
+6. Enter "Drivers License number" and "Date of birth" click "Get Drivers License Details"
+7. Fill up Application Form
+8. Take appointment 
+Question: How to apply if  NT validity is expired recently but Transport validity is expired more than one year before, now I don't want to renew transport validity
+Answer: Steps follow to apply for RENEWAL of License :-
+1. Visit https://sarathi.parivahan.gov.in/
+2. Select concerned state
+3. Click on "Services on Drivers License (Renewal/Duplicate/AEDL/Others)" from "Driving License" menu
+4. Fill up application form
+5. Click on "Next Button" to proceed
+6. Visit RTO on scheduled date, with original documents & Fee Slip
+Note : 
+Question: What is Drivers License backlog manual data entry, how it can be done online?
+Answer: Drivers License backlog manual data entry is meant for which Drivers Licenses data are not digitized. Some states are allowing it at public end, otherwise you need to contact your Zonal Office/Transport Department, while carrying the original document(s)
+ 
+Question: I have mistakenly entered wrong particulars while Drivers License backlog data entry, how to correct it now.
+Answer: You need to contact your Zonal Office/Transport Department, while carrying the original document(s)
+ 
+Question: How to renew the Drivers License which belongs to non-SARATHI enabled state and Drivers License details not showing on SARATHI portal.
+Answer: You need to contact your Zonal Office/Transport Department, while carrying the original document(s)
+ 
+Question: Can I apply for renewal/duplicate/AEDL/IDP simultaneously.
+Answer: Steps follow to apply for RENEWAL of License:-
+1. Visit https://sarathi.parivahan.gov.in/
+2. Select concerned state
+3. Click on "Services on Drivers License(Renewal/Duplicate/AEDL/Others)" from "Driving License" menu
+4. Fill up application form
+5. Click on "Next Button" to proceed
+6. Visit RTO on scheduled date, with original documents & Fee Slip
+Note : 
+Question: How to apply International Driving Permit for those country where visa is on arrival but at SARATHI it's mandatory to fill visa details.
+Answer: Visa details are mandatory to issue IDP.
+ 
+Question: Can I get International Driving Permit for Heavy Transport Vehicle.
+Answer: International Driving Permit is having category based on the weight criteria.
+ 
+Question: What will be the issue date of my Drivers License, initial issue date or last endorsement date?
+Answer: License issue date is mentioned along with Class Of Vehicles & last endorsement date is the date on which you have did your last transaction e.g. Last date of renewal or duplicate or change of address transaction.
+ 
+Question: How do I update/modify my mobile number on Driving License?
+Answer: Steps follow for Mobile number update in License :-
+1. Visit https://sarathi.parivahan.gov.in/
+2. Select concerned state
+3. Click on "Mobile Number Update" from "Others" menu
+ 
+Question: How do I update/modify my email ID on Driving License?
+Answer: You need to contact your Zonal Office/Transport Department, while carrying the original document(s)
+ 
+Question: How to know application number of any applied service if it has been lost?
+Answer: Steps follow for Find Application Number :-
+1. Visit https://sarathi.parivahan.gov.in/
+2. Select concerned state
+3. Click on "Find Application Number" from "Others" menu
+ 
+Question: How to know application status?
+Answer: Steps to check License status:
+1. Visit https://sarathi.parivahan.gov.in/sarathiservice/stateSelection.do
+2. Select concerned state
+3. Select "Application Status" from "Apply Online" menu
+ 
+Question: I don't have my Drivers License number how do I know my Drivers License number?
+Answer: You need to contact your Zonal Office/Transport Department, while carrying the original document(s)
+ 
+Question: My Drivers License is expired more than one year before while applying for renewal system is asking for Learner's License?
+Answer: It is as per the state policy.
+ 
+Question: My Drivers License is expired more than one year before while applying for renewal system is asking for renewal with Drivers License test
+Answer: To Renewal license after one year expire one needs to undergo a Driving test, as per state policy.
+ 
+Question: My Transport validity has expired more than one year before and Non-Transport validity is still valid now I don't want to renew Transport Validity, What will be the process for it?
+Answer: Steps follow to apply for RENEWAL-Retest of License :-
+1. Visit https://sarathi.parivahan.gov.in/
+2. Select concerned state
+3. Click on "Services on Drivers License(Renewal/Duplicate/AEDL/Others)" from "Driving License" menu
+4. Click "continue"
+5. Enter "Drivers License number" and "Date of birth" click "Get Drivers License Details"
+6. Fill up Application Form
+7. Take appointment
+Note :
+In case Drivers License is expired for more than 1 years, you need to undergo Driving test. 
+Question: I have a valid Drivers License with me but at SARATHI it's showing expired what to do?
+Answer: You need to contact your Zonal Office/Transport Department, while carrying the original document(s)
+ 
+Question: While applying services on Drivers License, message is showing "Suspicious data found" what to do
+Answer: Verify address fields while entry there should be no special characters in field
+ 
+Question: How to apply Public Service Vehicle  badge?
+Answer: Steps to follow to apply for Public Service Vehicle Badge:-
+1. Visit https://sarathi.parivahan.gov.in/
+2. Select concerned state
+3. Click on "Services on Drivers License(Renewal/Duplicate/AEDL/Others)" from "Driving License" menu
+4. Fill up application form
+5. Take appointment
+6. Visit RTO on scheduled date with original documents.
+Note : This Services is available in some states only. 
+Question: For which class of vehicle I can apply Public Service Vehicle  badge
+Answer: You can apply for LMV (Light Motor Vehicle) & TRANSPORT.
+ 
+Question: I want to surrender Public Service Vehicle  badge but not the linked class of vehicle
+Answer: You need to contact your Zonal Office/Transport Department, while carrying the original document(s)
+ 
+Question: What will be the validity of Public Service Vehicle  badge?
+Answer: commercial Driving license is valid for 5 years from the date of issue.
+(Public Service Vehicle  Badge validity is as per the state policy.)
+ 
+Question: How do I get refund of cancelled application number?
+Answer: You need to contact your Zonal Office/Transport Department, while carrying the original document(s)
+ 
+Question: My driving License details are not shown in the National Register. How can I authenticate my driving License details for use in a foreign country?
+Answer: Driving License details are updated from State Register to the NR Portal.  Please consult the concerned State Transport Department, if the details are missing in the NR Portal.
+ 
+Question: When should I apply for Renewal of Driving License?
+Answer: As per the latest amendment of CMV Act, renewal of a driving License could be done within one year prior to or after the expiry of the Driving License.
+ 
+Question: How to add a different class of vehicle to the existing Driving License?
+Answer: Applicants can apply for adding a new class of vehicle to the Driving License ONLINE by following the link  Log on https://sarathi.parivahan.gov.in >> Select State >> Apply Online>> Services on  Driving License,  provided on the website for the selected state. A valid Learner License is a prerequisite for this service.
+ 
+Question: How to get the address changed in the Driving License?
+Answer: Applicants can apply ONLINE for change of address in Driving License.
+Visit https://sarathi.parivahan.gov.in >> Select State >>Driving License>>Services on Driving License,   provided on the website.
+Enter the Driving License Number and Date of Birth and click on Get Drivers License Details button. Then select Change of Address from the list of services provided.
+ 
+Question: Driving License is approved but not delivered.
+Answer: You are requested to contact the concerned RTO/Department to get the Driving License dispatch tracking number.  Using the number you can track the status of the License.
+ 
+Question: Driving License data is not updated in digilocker.gov.in
+Answer: Driving License details are needed to be migrated from RTO to Sarathi portal by your concerned RTO.  If the Driving License details are not found in Digilocker, please consult your RTO/Department
+ 
+Question: Can I change the RTO after generation of the application?
+Answer: Application generated against any RTO can be changed before the payment of Fees. You are requested to contact the concerned RTO for further information in this regard.
+ 
+Question: I am unable to print the Learner License.
+Answer: Please follow the process below to print Learner License.https://sarathi.parivahan.gov.in >> Select State >> Learner License >> Print Learner License(Form3) >> Enter Application No & Date of Birth
+ 
+Question: What is the process for Cancellation of Application?
+Answer: Please follow the below process to cancel the application.https://sarathi.parivahan.gov.in >> Select State >> Others >> Cancel Application.
+ 
+Question: What is the procedure for the following services?
+Answer: Please follow the process below to apply for services on Driving License:https://sarathi.parivahan.gov.in >> Select State >> Driving License >> Services on Drivers License >> Continue Instructions >> Enter Drivers License Number & DOB >> Submit.
+ 
+Question: What is the procedure for payment of fees?
+Answer: Steps to Pay Online, Additional, Retest Payment or Verify Pay Status:-
+1. Visit https://sarathi.parivahan.gov.in/
+2. Select concerned state
+3. Click on "Fee Payments"
+4. Click on "Fee Payments" menu and Select Service
+ 
+Question: How to reprint fee receipt?
+Answer: Steps to print your Payment Slip :-
+1.  Visit https://sarathi.parivahan.gov.in/
+2.  Select concerned state
+3.  Click on "Fee Payments"  from the "Fee Payments" menu
+ 
+Question: Option of online fees payment is not available for Learner License
+Answer: Might be your state is not accepting the online fees, You need to contact your Zonal Office/Transport Department, while carrying the original document(s)
+ 
+Question: How can I make payment if payment access is denied?
+Answer: Steps to Pay Online:-
+1. Visit https://sarathi.parivahan.gov.in/
+2.  Select concerned state
+3.  Click on "Fee Payments" from the "Fee Payments" menu
+4. Click on "EPayment" menu and Select Service
+ 
+Question: Amount deducted but fee payment is showing pending in application status
+Answer: Steps to Verify Pay Status :-
+1.Visit https://sarathi.parivahan.gov.in/
+2. Select concerned state
+3.  Click on "Fee Payments"  from the "Fee Payments" menu
+4. Click on "EPayment" menu and Select Service
+ 
+Question: Amount deducted but fee payment is showing failed in application status
+Answer: You need to contact your Zonal Office/Transport Department, while carrying the original document(s)
+ 
+Question: System is not allowing me to submit the fee, message come please try after 15 minutes
+Answer: Steps to Verify Pay Status :-
+1.Visit https://sarathi.parivahan.gov.in/
+2. Select concerned state
+3.  Click on "Fee Payments"  from the "Fee Payments" menu
+4. Click on "EPayment" menu and Select Service
+Note: Retry payment after  few minutes
+ 
+Question: Amount not deducted but transaction is at verifying with bank from more than 3 days
+Answer: You need to contact your Bank branch , while carrying the document(s)
+ 
+Question: Transaction is pending from more than 3 days. How to clear the transaction?
+Answer: Steps to Verify Pay Status:-
+1. Visit https://sarathi.parivahan.gov.in/
+2. Select concerned state
+3.  Click on "Fee Payments” from the "Fee Payments" menu
+4. Click on "EPayment" menu and Select Service
+ 
+Question: Fee payment successfully done and fee receipt printed but in application status it's still showing pending.
+Answer: You need to contact your Zonal Office/Transport Department, while carrying the original document(s) or contact helpdesk.
+ 
+Question: If payment is made twice then how to get one payment back?
+Answer: You need to contact your Zonal Office/Transport Department, while carrying the original document(s)
+ 
+Question: Can I cancel my application and get refund of fee?
+Answer: No, the cancel application Fee is not refunded
+ 
+Question: How to get refund if service unavailed or rejected by RTO?
+Answer: You need to contact your Zonal Office/Transport Department, while carrying the original document(s)
+ 
+Question: Why does SARATHI do not refund the fee automatically in bank account?
+Answer: You need to contact your Zonal Office/Transport Department, while carrying the original document(s)
+ 
+Question: What should I do if I failed the Learner License Test?
+Answer: Steps to Pay Retest Payment :-
+1 Visit https://sarathi.parivahan.gov.in/
+2  Select concerned state
+3  Click on "Fee Payments"
+4  Click on "EPayment" menu and Select Service
+ 
+Question: How to reprint fee receipt?
+Answer: Steps to print your Payment Slip :-
+1.  Visit https://sarathi.parivahan.gov.in/
+2. Select concerned state
+3.  Click on "Fee Payments"  from the "Fee Payments" menu
+4.  Click on "Print Receipt" from "EPayment" menu
+ 
+Question: I have failed in driving skill test, how to pay retest fees and how much do I have to pay?
+Answer: A new application needs to be placed for a retest.
+Steps to Pay Retest Payment :-
+1 Visit https://sarathi.parivahan.gov.in/
+2  Select concerned state
+3.  Click on "Fee Payments"  from the "Fee Payments" menu
+4  Click on "EPayment" menu and Retest Fee
+ 
+Question: I have book the slot test without paying the amount online  Can I pay tomorrow before the event?
+Answer: Yes, you can pay before your slot test date.
+ 
+Question: Fees has been deducted twice how to refund extra amount paid?
+Answer: You need to contact your Zonal Office/Transport Department, while carrying the original document(s)
+ 
+Question: I have failed in driving skill test 3 times, can I pay retest fees for the another attempt and after how many days?
+Answer: Yes, you are able to deposit the fee but after the 60 days of last failure attempt.
+ 
+Question: After how many days of failing in test I can apply for the re-test?
+Answer: Re-test can be applied after 7 days.
+ 
+Question: How to get refund for cancelled application?
+Answer: No, the cancel application Fee is not refunded
+ 
+Question: Payment is pending for more than 3 days but amount has not been deducted from my account
+Answer: Steps to Verify Pay Status :-
+1.Visit https://sarathi.parivahan.gov.in/
+2. Select concerned state
+3.  Click on "Fee Payments"  from the "Fee Payments" menu
+4. Click on "EPayment" menu and Select Service
+ 
+Question: How to verify if the payment is a failure or success?
+Answer: Steps to Verify Pay Status:-
+1. Visit https://sarathi.parivahan.gov.in/
+2. Select concerned state
+3.  Click on "Fee Payments” from the "Fee Payments" menu
+4. Click on "EPayment" menu and Select Service
+ 
+Question: How to book appointment/slot?
+Answer: Steps follow to Booking Appointment :-
+1. Visit https://sarathi.parivahan.gov.in/
+2. Select concerned state
+3. Click on "Appointments" and Select Service.
+4. Take appointment
+5. Visit RTO on scheduled date with original documents.
+Note: This service is available in some states only
+ 
+Question: Is online slot booking available for all RTOs ? What should be done if slots not available on the required dates?
+Answer: Steps follow to check available Slot :-
+1. Visit https://sarathi.parivahan.gov.in/
+2. Select concerned state
+3. Click on "Appointments" and Select Service.
+4. Select concerned state and RTO
+5. Select date
+ 
+Question: I did not attend Learner License test on the scheduled date of appointment? What should I do?
+Answer: Steps follow to Booking/Reschedule or Cancel Appointment/Slot :-
+1. Visit https://sarathi.parivahan.gov.in/
+2. Select concerned state
+3. Click on "Appointments" and Select Service.
+4. Take appointment
+5. Visit RTO on scheduled date with original documents.
+Note: This service is available in some states only
+ 
+Question: How to reschedule the appointment?
+Answer: Steps follow to Booking/Reschedule or Cancel Appointment/Slot :-
+1. Visit https://sarathi.parivahan.gov.in/
+2. Select concerned state
+3. Click on "Appointments" and Select Service.
+4. Take appointment
+5. Visit RTO on scheduled date with original documents.
+Note: This service is available in some states only.
+Slot Booking to be done after Cancelling Appointment
+ 
+Question: How to cancel and reschedule the appointment?
+Answer: Steps follow to Booking/Reschedule or Cancel Appointment/Slot :-
+1. Visit https://sarathi.parivahan.gov.in/
+2. Select concerned state
+3. Click on "Appointments" and Select Service.
+4. Take appointment
+5. Visit RTO on scheduled date with original documents.
+Note: This service is available in some states only
+Slot Booking to be done after Cancelling Appointment
+ 
+Question: How many times I can reschedule the appointment?
+Answer: Appointment can be cancelled max 3 times or (As per state policy)
+ 
+Question: How many times I can cancel the appointment?
+Answer: Appointment can be cancelled max 2 times or (As per state policy)
+ 
+Question: Slots are not available for next 30/60/90 days, how to book appointment?
+Answer: Steps follow to check available Slot:-
+1. Visit https://sarathi.parivahan.gov.in/
+2. Select concerned state
+3. Click on "Appointments" and Select Service.
+4. Select concerned state and RTO
+5. Select date
+ 
+Question: What happens if I am absent on the day of the Learner Licence Test?
+Answer: Appointment need to be rescheduled for next time
+ 
+Question: I have applied for learner's license for addition of class of vehicle but not able to book appointment?
+Answer: There is no need for appointment in addition endorsement
+ 
+Question: OTP is not coming on my registered mobile number or at email for booking the appointment.
+Answer: You need to contact your Zonal Office/Transport Department, while carrying the original document(s)
+ 
+Question: How can I rebook/reschedule the slot now for DL after payment the fees?
+Answer: Steps follow to Booking/Reschedule or Cancel Appointment/Slot :-
+1. Visit https://sarathi.parivahan.gov.in/
+2. Select concerned state
+3. Click on "Appointments" and Select Service.
+4. Take appointment
+5. Visit RTO on scheduled date with original documents.
+Note: This service is available in some states only
+ 
+Question: Appointment dates are not available for driving skill test.
+Answer: Steps follow to check available Slot :-
+1. Visit https://sarathi.parivahan.gov.in/
+2. Select concerned state
+3. Click on "Appointments" and Select Service.
+4. Select concerned state and RTO
+5. Select date
+ 
+Question: My learner's license is expiring in next week but slots dates are not available what to do next?
+Answer: You need to contact your Zonal Office/Transport Department, while carrying the original document(s)
+ 
+Question: Slot are not availble for test but fees paid, can you refund the fees in case non availability of slots?
+Answer: You need to contact your Zonal Office/Transport Department, while carrying the original document(s)
+ 
+Question: How can I reprint Appointment/ Acknowledgement form?
+Answer: Steps to Print your Appointment/Acknowledgement Slip :-
+1. Visit https://sarathi.parivahan.gov.in/
+2. Select concerned state
+3. Click on "Application Status"
+4. After entering application number and Date of Birth, On Right side you will find your application FORMS/ Appointment/ Acknowledgement Slip
+ 

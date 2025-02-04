@@ -1,0 +1,11 @@
+
+groq 
+fastapi
+uvicorn 
+# chroma
+redis
+redis[hiredis]
+# langchain_community 
+# langchain_chroma 
+# langchain_text_splitters
+# sentence-transformers

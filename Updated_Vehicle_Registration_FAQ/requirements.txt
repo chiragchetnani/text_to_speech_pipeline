@@ -1,0 +1,13 @@
+chroma 
+langchain_chroma
+langchain_community
+langchain_text_splitters
+groq 
+fastapi
+uvicorn 
+redis
+redis[hiredis]
+edge-tts
+sentence-transformers
+python-multipart
+pandas
